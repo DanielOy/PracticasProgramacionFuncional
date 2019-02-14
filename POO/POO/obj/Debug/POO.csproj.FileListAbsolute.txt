@@ -1,0 +1,7 @@
+C:\Users\Danny\Documents\Tareas\Programacion Funcional y Logica\Tema 1\Practicas\POO\POO\bin\Debug\POO.exe.config
+C:\Users\Danny\Documents\Tareas\Programacion Funcional y Logica\Tema 1\Practicas\POO\POO\bin\Debug\POO.exe
+C:\Users\Danny\Documents\Tareas\Programacion Funcional y Logica\Tema 1\Practicas\POO\POO\bin\Debug\POO.pdb
+C:\Users\Danny\Documents\Tareas\Programacion Funcional y Logica\Tema 1\Practicas\POO\POO\obj\Debug\POO.csprojAssemblyReference.cache
+C:\Users\Danny\Documents\Tareas\Programacion Funcional y Logica\Tema 1\Practicas\POO\POO\obj\Debug\POO.csproj.CoreCompileInputs.cache
+C:\Users\Danny\Documents\Tareas\Programacion Funcional y Logica\Tema 1\Practicas\POO\POO\obj\Debug\POO.exe
+C:\Users\Danny\Documents\Tareas\Programacion Funcional y Logica\Tema 1\Practicas\POO\POO\obj\Debug\POO.pdb
